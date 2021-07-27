@@ -1,3 +1,3 @@
 if code = Alphanumeric n
-then echo "it's a outdated code to remove bugs"
+then echo "it's a updated code to remove bugs"
 fi
