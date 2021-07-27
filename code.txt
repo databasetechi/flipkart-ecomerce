@@ -1,3 +1,4 @@
 if code = Alphanumeric n
 then echo "it's a updated code to remove bugs"
 fi
+a=50
