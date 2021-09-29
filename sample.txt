@@ -1,0 +1,5 @@
+if code = Alphanumeric n
+then echo "it's a updated code to remove bugs"
+fi
+a=35
+I m not able to understand this diff comm.
