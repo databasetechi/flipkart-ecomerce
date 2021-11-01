@@ -2,7 +2,7 @@
      	{
      		public static void main(String args[])
      		{
-     			int a = 50
+     			int a = 60
      	
      			for(i=0;i<=40;i++)
      			{
