@@ -4,7 +4,7 @@
      		{
      			int a = 60;
      	
-     			for(i=0;i<=60;i++)
+     			for(i=0;i<=100;i++)
      			{
      				System.out.println("Hello World!");
     			}
