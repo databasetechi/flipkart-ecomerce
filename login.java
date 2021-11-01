@@ -4,9 +4,9 @@
      		{
      			int a = 0;
      	
-     			for(i=0;i<=10;i++)
+     			for(i=0;i<=90;i++)
      			{
-     				System.out.println("Hello World!");
+     				System.out.println("Numbers: " + i);
     			}
     		}
     	}
