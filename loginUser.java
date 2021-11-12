@@ -2,7 +2,7 @@
      	{
      		public static void main(String args[])
      		{
-     			int a = 0;
+     			int a = 100;
      	
      			for(i=0;i<=90;i++)
      			{
